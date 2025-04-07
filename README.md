@@ -65,8 +65,7 @@ proxyless = false
     "flagged": true,
     "type": true,
     "age": true,
-    "nitro": true,
-    "redeemable": true
+    "nitro": true
 }
 ```
 
@@ -86,8 +85,6 @@ python main.py
    - `flagged.txt` - Flagged tokens
    - `Nitro/` - Tokens with Nitro
    - `Age/` - Tokens sorted by age
-   - `Redeemable.txt` - Tokens you can redeem
-   - `Non Redeemable.txt` - Tokens you can't redeem
 
 ## Where to Find Results
 
@@ -104,8 +101,6 @@ output/
 │   ├── Age/
 │   │   ├── [X] Years/
 │   │   └── [X] Month/
-│   ├── Redeemable.txt
-│   └── Non Redeemable.txt
 ```
 
 ## What it Checks
