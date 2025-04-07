@@ -10,7 +10,6 @@ A fast and powerful Discord token checker that helps you check and sort your tok
   - Checks for available boosts
   - Shows how old accounts are
   - Checks if accounts are verified
-  - Finds redeemable tokens
   - Spots flagged accounts
 
 - ⚡ **Speed & Performance**
@@ -35,7 +34,7 @@ A fast and powerful Discord token checker that helps you check and sort your tok
 
 1. Download the tool:
 ```bash
-git clone https://github.com/ghost1545/razor-token-checker.git
+git clone https://github.com/Ghost1503/Razor-Token-Checker.git
 cd razor-token-checker
 ```
 
@@ -111,7 +110,6 @@ output/
 - Shows how many boosts are available
 - Tells you how old accounts are
 - Checks if accounts are verified
-- Finds tokens you can redeem
 - Spots flagged accounts
 
 ### Speed Features
@@ -146,29 +144,14 @@ Help us reach 20 stars to unlock the next update with:
 - New features
 - Bug fixes
 
-## Contributors
-
 <div align="center">
-  
-  ### Our Amazing Team
-  
-  <a href="https://github.com/ghost1545/razor-token-checker/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ghost1545/razor-token-checker" />
-  </a>
-  
-  ### Join Our Team!
-  
-  Want to be a contributor? [Join our Discord](https://discord.gg/razorcap) and let us know!
-  
-</div>
 
-## Credits
+### 🔗 Links
+- [Discord Server](https://discord.gg/razorcap)
+- [GitHub Profile](https://github.com/Ghost1503)
+- [Repository](https://github.com/Ghost1503/Razor-Token-Checker)
 
-<div align="center">
-  
-  ### Made with ❤️ by Ghost
-  
-  [![Discord](https://img.shields.io/discord/922631391806652467?color=7289da&label=Discord&style=for-the-badge)](https://discord.gg/razor-boost)
-  [![GitHub](https://img.shields.io/github/followers/ghost1545?label=Follow&style=for-the-badge)](https://github.com/ghost1545)
-  
+---
+Made with ❤️ by Ghost | © 2025 Razor Token Checker
+
 </div>
