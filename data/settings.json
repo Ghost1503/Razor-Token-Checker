@@ -1,0 +1,7 @@
+{
+    "nitro": true,
+    "age": true,
+    "type": true,
+    "flagged": true,
+    "redeemable": true
+}

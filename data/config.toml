@@ -1,0 +1,3 @@
+[main]
+threads = 100
+proxyless = false
